@@ -24,9 +24,11 @@ This is my personal portfolio website built using HTML, CSS, and Bootstrap. The 
 
 ## Screenshots
 
-![Homepage screenshot](/screenshots/homepage.png)
-![Projects screenshot](/screenshots/projects.png)
-![Contact screenshot](/screenshots/contact.png)
+!![Screenshot_398](https://user-images.githubusercontent.com/43922158/222225748-c1fb6c81-9b5c-4168-a9cb-ce2a20bea3e4.png)
+![Screenshot_399](https://user-images.githubusercontent.com/43922158/222225757-81cb0f10-548f-43f0-b989-ed7c128c5a58.png)
+![Screenshot_400](https://user-images.githubusercontent.com/43922158/222225760-00bc612b-4992-4ea1-8b07-82250d312719.png)
+![Screenshot_401](https://user-images.githubusercontent.com/43922158/222225763-4d3ba923-6554-46c4-aac6-e6ddee38083f.png)
+
 
 ## Credits
 
